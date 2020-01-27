@@ -1,8 +1,8 @@
 # Digledge
-Working with Text Summarization and find the loss, optimaization using Deep Learning model.
-The DNNRegressor model giving the accurate results.
-But i tried new model called Autoencoder for best accuracy. But i got poor accuracy and the result is not perfect. But here i am exploring my tried work.
-The text summarazation results are good.
+1. Working with Text Summarization and find the loss, optimaization using Deep Learning model.
+2. The DNNRegressor model giving the accurate results.
+3. But i tried new model called Autoencoder for best accuracy. But i got poor accuracy and the result is not perfect. But here i am exploring my tried work.
+4. The text summarazation results are good.
 
 
 Commands required to run the codes:
@@ -15,6 +15,7 @@ Commands required to run the codes:
 
 Digledge:
 Task 1 : Allstate Claims Severity: 
+
 By talking the DNNRegressor Model.ipynb file in DNNRegressor folder, 
 1. Try to run the code in google colab or if not required try to run the code in jupyter notebook
 2. Commands to run the code in Jupyter
@@ -36,6 +37,7 @@ By talking the Autoencoder Model New(By Manasa Jagannadan).ipynb file in Autoenc
   3. Model is not having good accuracy and for that i used Keras frame work.
   
 Task 2 : Text Summarization: 
+
 By talking the rfp_for_general_insurance.ipynb file in Extractive summarizer Method1 folder,
 1. Try to run the code in google colab or if not required try to run the code in jupyter notebook
 2. Commands to run the code in Jupyter
@@ -57,18 +59,18 @@ By talking the RFP_Corporate_Agency_Arrangement_for_Standalone_Health_Insurance_
   
 These are the changes need to observe to run the all ipynb and .py files.
 
-For more information try to click on tha below Google colab codes :
-By talking the Regression_Model.ipynb file in Regression Model folder,
+1. For more information try to click on tha below Google colab codes :
+2. By talking the Regression_Model.ipynb file in Regression Model folder,
 https://colab.research.google.com/drive/1L_8SzJK_aHbaWBS47rogpt1Ul-BSQAMq
 
-By talking the DNNRegression_Model.ipynb file in DNNRegressor folder,
+1. By talking the DNNRegression_Model.ipynb file in DNNRegressor folder,
 https://colab.research.google.com/drive/1YB1KR-Iuis3S0XlZwxrzBms5klmEnFCs
 
-By talking the rfp_for_general_insurance.ipynb file in Extractive summarizer Method1 folder,
+1. By talking the rfp_for_general_insurance.ipynb file in Extractive summarizer Method1 folder,
 https://colab.research.google.com/drive/1cN7qNsVsW0fwZDeGQEiQ5NgwAxwwx_Gf
 https://colab.research.google.com/drive/1SAHqRE4_G_oRnG0l6h0Da7acjuPCsE9E
 
-By talking the rfp_for_general_insurance.pdf file in Text Summarization Method2 with SpaCy folder :
+1. By talking the rfp_for_general_insurance.pdf file in Text Summarization Method2 with SpaCy folder :
 https://colab.research.google.com/drive/1EaZ5ZLUL8LevP72QlQCkbrI0kMYyEwwX
 https://colab.research.google.com/drive/1rdYsI5Qi62CeCTAKKM3Cc6Jyar5lU850
  
